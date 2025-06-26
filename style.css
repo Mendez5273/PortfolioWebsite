@@ -3,7 +3,7 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
-    color: #886e6e;
+    color: #a79dbc;
     line-height: 1.6;
-    background-color: #f8f9fa;
+    background-color: hsl(259, 22%, 15%);
 }
