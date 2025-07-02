@@ -31,15 +31,50 @@ body {
     gap: 30px;
 }
 
+/* header styling */
+.header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px  solid #a79dbc;
+    margin-bottom: 20px;
+}
 
+.header h1 {
+    font-size: 2.5em;
+    margin: 0 0 10px 0;
+    color: #d4c5e8;
+}
 
+.header p {
+    font-size: 1.1em;
+    margin: 0;
+    font-style: italic;
+}
 
+/* chess */
+#chess-game {
+    background-color: rgba(167, 157, 188, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid rgba(167, 157, 188, 0.2);
+}
 
+#chess-game h2 {
+    color: #d4c5e8;
+    margin-top: 0;
+}
 
+/* right side section spacing */
+#header2, #projects, #AboutMe, #Contact {
+    margin-bottom: 25px;
+}
 
-
-
-
+/* make h2 headings more prominent */
+h2 {
+    color: #d4c5e8;
+    border-bottom: 1px solid rgba(167, 157, 188, 0.2);
+    padding-bottom: 5px;
+}
 
 
 
